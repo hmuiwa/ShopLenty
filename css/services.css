@@ -1,0 +1,61 @@
+#heading1{
+    text-align: center;
+    color: red;
+
+}
+
+#mydivision{
+    background-color: lightblue;
+    margin: 50px;
+    padding: 30px;
+    color: white;
+
+}
+#test{
+    background-color: grey;
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+    color: white;
+}
+
+#test p{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#test img{
+    border-radius: 300px;
+    width: 200px;
+    height: 200px;
+}
+#main{
+    display: flex;
+}
+
+#advertisement{
+    background-color: dodgerblue;
+    padding: 20px;
+    box-shadow: 8px 4px 8px 4px gray;
+    color: white;
+}
+
+#accounting{
+    background-color: green;
+    margin-left: 20px;
+    padding: 20px;
+    box-shadow: 8px 4px 8px 4px gray;
+    color: white;
+}
+
+#payment{
+    background-color: red;
+    margin-left: 20px;
+    padding: 20px;
+    box-shadow: 8px 4px 8px 4px gray;
+    color: white;
+}
+
+#advertisement:hover,#accounting:hover,#payment:hover{
+    background-color: gray;
+}
